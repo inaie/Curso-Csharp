@@ -15,7 +15,7 @@ namespace MeuApp
             }
             else if(sabao == 1)
             {
-
+                    Console.WriteLine("Olá");
             }
             else if (sabao == 21)
             {
