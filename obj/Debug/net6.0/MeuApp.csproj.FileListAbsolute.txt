@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\bin\Debug\net6.0\MeuApp.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\bin\Debug\net6.0\MeuApp.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\bin\Debug\net6.0\MeuApp.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\bin\Debug\net6.0\MeuApp.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\bin\Debug\net6.0\MeuApp.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\refint\MeuApp.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\MeuApp.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Dev\MeuApp\obj\Debug\net6.0\ref\MeuApp.dll
