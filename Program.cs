@@ -13,6 +13,10 @@ namespace MeuApp
             var mund = "Olá mundo";
             Console.WriteLine(mund);
             }
+            else if(sabao == 1)
+            {
+
+            }
             else if (sabao == 21)
             {
                 var mundo = "Olá, amigo.";
