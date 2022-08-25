@@ -5,10 +5,14 @@ namespace MeuApp
     class Program
     {
         static void Main(String[] args)
-        {
-            for(var i = 0; i <= 5; i++)
+        { 
+            var numer = 1;
+            if(numer == 1)
             {
-                Console.WriteLine(i);
+                for(var i = 0; i <= 5; i++)
+                {
+                 Console.WriteLine(i);
+                }
             }
         }
     }
