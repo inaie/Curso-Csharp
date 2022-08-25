@@ -6,13 +6,11 @@ namespace MeuApp
     {
         static void Main(String[] args)
         { 
-            var numer = 1;
-            if(numer == 1)
+            int valor = 0;
+            while(valor <= 5)
             {
-                for(var i = 0; i <= 5; i++)
-                {
-                 Console.WriteLine(i);
-                }
+             Console.WriteLine(valor);
+             valor++;
             }
         }
     }
